@@ -17,3 +17,7 @@ attendees.each_with_index do |n,i|
 end
  return room_assignments
 end
+
+def printer
+puts batch_badge_creator
+end
