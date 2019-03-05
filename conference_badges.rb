@@ -6,6 +6,6 @@ def batch_badge_creator(attendees)
   badges=[]
 for name in attendees do 
   badges.push("Hello, my name is "attendees.name".")
-  badges
 end
+badges
 end 
