@@ -11,5 +11,5 @@ badges
 end 
 
 def assign_rooms(attendees)
-attendees.
+attendees.each
 end
