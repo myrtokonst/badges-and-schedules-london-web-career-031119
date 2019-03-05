@@ -11,6 +11,7 @@ badges
 end 
 
 def assign_rooms(attendees)
+room_assignments = []
 attendees.each do |n|
   phrase = "Hello " + attendees[n]+ "! You\'ll be assigned to room #{n}!"
 puts phrase
