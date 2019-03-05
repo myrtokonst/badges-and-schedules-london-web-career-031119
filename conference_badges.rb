@@ -12,5 +12,5 @@ end
 
 def assign_rooms(attendees)
 attendees.each do |n|
-  phrase = "Hello" attendees[n]! You\'ll be assigned to room 
+  phrase = "Hello attendees[n]! You\'ll be assigned to room #{n}!"
 end
