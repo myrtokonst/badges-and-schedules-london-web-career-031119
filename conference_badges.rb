@@ -15,5 +15,5 @@ room_assignments = []
 attendees.each do |n|
   room_assignments.push("Hello " + attendees[n-1]+ "! You\'ll be assigned to room #{n}!")
 end
-room_assignments
+ return room_assignments
 end
