@@ -19,5 +19,5 @@ end
 end
 
 def printer
-puts batch_badge_creator
+batch_badge_creator
 end
