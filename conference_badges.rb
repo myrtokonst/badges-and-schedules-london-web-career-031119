@@ -9,3 +9,7 @@ for name in attendees do
 end
 badges
 end 
+
+def assign_rooms
+
+end
